@@ -9,4 +9,4 @@ Responsive Design
 Tech Stack
 Frontend: React, Tailwind CSS
 Backend: Express.js, Node.js
-Database: MongoDB# Password-Manager
+Database: MongoDB# Password-Manager.
